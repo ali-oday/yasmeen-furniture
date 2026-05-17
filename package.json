@@ -13,8 +13,10 @@
     "@supabase/supabase-js": "^2.105.3",
     "react": "^19.2.5",
     "react-dom": "^19.2.5",
-    "react-router-dom": "^7.15.0"
+    "react-router-dom": "^7.15.0",
   },
+    framer-motion": "^11.0.0"
+
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "@types/node": "^24.12.2",
